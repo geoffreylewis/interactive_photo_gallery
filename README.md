@@ -1,1 +1,1 @@
-# tdp4-interactive_photo_gallery
+# Techdegree Project 4: Interactive Photo Gallery
