@@ -1,5 +1,7 @@
 $('.lightbox').magnificPopup({
      delegate: 'a',
      type: 'image',
-     gallery: {enabled:true}
+     gallery: {
+          enabled:true
+     }
 })
