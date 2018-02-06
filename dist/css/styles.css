@@ -81,3 +81,13 @@ Styles for larger screens
      }
 
 }
+
+
+/*==============================
+Styles for magnificPopup plugin
+================================*/
+.mfp-title {
+  text-align: center;
+  padding-top: 8px;
+  padding-right: 0;
+}
