@@ -1,3 +1,6 @@
+/*===========================================
+Calling the "Magnific Popup" lightbox plugin
+=============================================*/
 $('.lightbox').magnificPopup({
      delegate: 'a',
      type: 'image',
@@ -5,3 +8,18 @@ $('.lightbox').magnificPopup({
           enabled:true
      }
 })
+
+
+/*===========================================
+Making the search bar filter images by input
+=============================================*/
+$('#filter').keyup(function() {
+     var keyword = $.trim(this.value);
+     if (keyword === "") {
+          $('img').show();
+     }
+     else {
+          $('img').hide();
+          $('img[alt*=' + keyword + ']').show();
+     }
+});
