@@ -7,7 +7,7 @@ $('.lightbox').magnificPopup({
      gallery: {
           enabled:true
      }
-})
+});
 
 
 /*===========================================
