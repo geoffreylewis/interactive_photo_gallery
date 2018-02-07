@@ -24,6 +24,6 @@ $('#filter').keyup(function() {
           $('a').hide();
           keyword = keyword.split(" ").join("\\ ");
           $('img[alt*=' + keyword + ' i]').show();
-          $('a[rel*=' + keyword + ' i]').show();
+          $('a[title*=' + keyword + ' i]').show();
      }
 });
