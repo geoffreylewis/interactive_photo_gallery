@@ -1,4 +1,4 @@
-# Techdegree Project 4: Interactive Photo Gallery
+# Interactive Photo Gallery
 
 ## Software Summary
 
