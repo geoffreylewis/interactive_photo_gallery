@@ -2,7 +2,9 @@
 
 ## Software Summary
 
-I built an image gallery (with a mobile-first design) that has two key functions: a search bar that filters through the images based on the keywords you type in, and a lightbox that blows up the images in size so you can scroll through them one by one.  I wrote some jQuery for the search bar's filtering functionality, and I attached the "Magnific Popup" plugin (with some slight CSS tweaks of my own) for the lightbox.
+I built an image gallery (with a mobile-first design) that has two key functions:
+* a search bar that filters through the images based on the keywords you type in
+* a lightbox plugin (with some slight CSS tweaks of my own) that blows up the images in size so you can scroll through them one by one
 
 ## Built With
 
