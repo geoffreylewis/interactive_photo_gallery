@@ -12,8 +12,10 @@ I built an image gallery (with a mobile-first design) that has two key functions
 * CSS3
 * JavaScript / jQuery
 
-## Additional Notes
+## Version History
 
+**Version 1.0**  
+*2/7/2018*  
 * All of the HTML/CSS code has been successfully run through the W3C HTML/CSS validators; there are no errors.
 * All of the JavaScript/jQuery has been successfully run through JSHint; it only marks the "$" as an undefined variable.
 * The version of jQuery that I am using is v3.3.1 from http://jquery.com/download/.
